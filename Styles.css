@@ -1,0 +1,36 @@
+body{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMQRB850sY8GlsHFfZyP2J151YsKjlL5gYc9zndbGEPuhL9JcPw");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+    background-position: 100%% 100%; 
+	background-size: cover;
+}
+	
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+body {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+text-align: center;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+	}
