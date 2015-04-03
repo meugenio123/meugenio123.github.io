@@ -4,7 +4,9 @@
     background-position: 100%% 100%; 
 	background-size: cover;
 }
-box{ background-color: #FFF8C6; margin-left: 20px; margin-right: 20px; padding-bottom: 4px; padding-left: 8px; padding-right: 8px; padding-top: 8px;}	
+div{
+background-color: #FFF8C6; margin-left: 20px; margin-right: 20px; padding-bottom: 4px; padding-left: 8px; padding-right: 8px; padding-top: 8px;}	
+
 a{color:#1F403B;}
 h1 {
     color: #B29D4D;
