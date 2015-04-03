@@ -5,8 +5,10 @@
 	background-size: cover;
 }
 
-div{text-align: right;
-border:2px #44B2A4 solid; margin-right: 10px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; }	
+div{position:absolute;
+right:50px;
+top:35px;
+border:2px #44B2A4 solid; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; }	
 
 a{color:#1F403B;}
 h1 {
