@@ -6,13 +6,10 @@
 	background-size: cover;
 }
 	
-a{color:#C239FF:;}
+a{color:#C239FF;}
 h1 {
     color: navy;
     margin-left: 20px;
-}
-body {
-    color: white;
 }
 
 h1 {
@@ -24,13 +21,13 @@ text-align: center;
     color:black;
 }
 h1 {
-    text-align: center;
+    text-align: left;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
 }
 
 h3 {
-    text-align: center;
+    text-align: left;
 	}
