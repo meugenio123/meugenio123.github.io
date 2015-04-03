@@ -20,9 +20,7 @@ h1 {
    float: left; 
 }  
 
-h1 { position:fixed;
-left:50px;
-top:35px;
+h1 { 
     color:#B29D4D;
 }
 
