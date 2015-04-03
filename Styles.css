@@ -13,6 +13,11 @@ h1 {
     color: #B29D4D;
     margin-left: 20px;
 }
+#lefttop { color:#7BFFEE;
+   width: 150px; 
+   height: 100px; 
+   float: left; 
+}  
 
 h1 {
     color:#B29D4D;
