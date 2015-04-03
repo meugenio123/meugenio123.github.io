@@ -27,8 +27,10 @@ top:35px;
     color:#B29D4D;
 }
 
-p {
-text-align: center;
+p {position:absolute;
+left:50px;
+top:35px;
+text-align: right;
     color:#B29D4D;
 }
 h1 {
