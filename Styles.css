@@ -1,4 +1,4 @@
-*{background-color:#7BFFEE;
+*{background-color:#FF0300;
  background-position: center;
  background-attachment: fixed;
     background-position: 100%% 100%; 
@@ -9,16 +9,13 @@ div{
 
 display: block; border:8px #44B2A4 solid; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; }	
 
-a{color:#1F403B;}
+a{color:#096DB2;}
 h1 {
-    color: #B29D4D;
+    color:#B2B221;
     margin-left: 20px;
 }
-#lefttop { color:#7BFFEE;
-   width: 150px; 
-   height: 100px; 
-   float: left; 
-}  
+
+  
 
 h1 { 
     color:#B29D4D;
