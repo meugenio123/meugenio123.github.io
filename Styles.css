@@ -1,15 +1,13 @@
-*{background-color:#FF0300;
+*{background-color:#c1fff1;
  background-position: center;
  background-attachment: fixed;
     background-position: 100%% 100%; 
 	background-size: cover;
 }
 
-div{
+{div }
 
-display: block; border:8px #ffc1c8 solid; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px; }	
-
-a{color:#096DB2;}
+a{color:#c1fff1;}
 h1 {
     color:#c1fff1;
     margin-left: 20px;
@@ -19,6 +17,6 @@ h1 {
 
 p {
 text-align: right;
-    color:#B29D4D;
+    color:#c1fff1;
 }
 
