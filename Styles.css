@@ -7,13 +7,16 @@
 
 div {}
 
-a{color:#0a7afa;}
+a{
+	color:#0a7afa;
+	
+}
 h1 {
     color:#030303;
     margin-left: 20px;
 }
 
-ul { color: #030303;}
+
 
 p {
 text-align: right;
