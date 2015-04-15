@@ -3,14 +3,14 @@
 	background-size: cover;
 }
 
-div {}
+div { text-align: left;}
 
 a{
 	color:#0a7afa;
 	
 }
 html { background: transparent }
-h1 {
+h1 { text-align: left;
     color:#030303;
     margin-left: 20px;
 }
