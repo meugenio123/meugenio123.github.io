@@ -5,12 +5,12 @@
 
 div { text-align: center;}
 
-a{
+a{ text-align:center;
 	color:#0a7afa;
 	
 }
 html { background: transparent }
-h1 { text-align: left;
+h1 { text-align: center;
     color:#030303;
     margin-left: 20px;
 }
@@ -18,7 +18,7 @@ h1 { text-align: left;
 
 
 p {
-text-align: left;
+text-align: center;
     color:#030303;
 }
 
