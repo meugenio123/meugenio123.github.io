@@ -10,7 +10,7 @@ a{ text-align:center;
 	
 }
 html { background: transparent }
-h1 { text-align: center;
+h1 { text-align: left;
     color:#030303;
     margin-left: 20px;
 }
@@ -18,7 +18,7 @@ h1 { text-align: center;
 
 
 p {
-text-align: center;
+text-align: left;
     color:#030303;
 }
 
