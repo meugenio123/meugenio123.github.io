@@ -1,6 +1,4 @@
 div{text-align:center;
-  
-  border: 1em solid #93c930;
    }
   
   round{position: fixed;
@@ -14,7 +12,7 @@ border-color:#c93093;
     height: 40px; 
     padding:10px;
 }
-a{background-color:#93c930;}
+a{border: 1em solid #93c930}
 
 body{background-color:#3196cc;
   
