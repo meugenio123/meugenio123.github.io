@@ -2,8 +2,7 @@ div{text-align:center;
   border-style:solid;
   border-color:#93c930; padding:20px;}
   
-  round{text-align:center;
-  text-size:32px;
+  round{
 border-radius: 25px;
 border-color:#c93093;
     background:#c93093;
