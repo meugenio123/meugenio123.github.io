@@ -1,6 +1,7 @@
 div{text-align:center;
-  
-  border-color:green; padding:20px;}
+  border-style:solid;
+  border-size:5px
+  border-color:#93c930; padding:20px;}
   
   round{position: fixed;
     top: 30px;
@@ -21,3 +22,5 @@ img{width:300px;
 height:228px;
   z-index:-1;
 }
+h1{border-style:solid;
+border-color:#93c930;}
