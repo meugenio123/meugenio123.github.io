@@ -13,7 +13,7 @@ border-color:#c93093;
     padding:10px;
     z-index:1;
 }
-a{border: 1em solid #93c930}
+a{}
 
 body{background-color:#3196cc;
   
@@ -22,7 +22,5 @@ img{width:300px;
 height:228px;
   z-index:-1;
 }
-h1{border-style:solid;
-border-color:#93c930;
-  border-width:cover;
+h1{border: 1em solid #93c930
 }
