@@ -1,6 +1,7 @@
-div{text-align:center;
+div.one{text-align:center;
   border-style:solid;
   border-color:#93c930;}
+  div.two{
   round{text-align:center;
   text-size:32px;
 border-radius: 25px;
