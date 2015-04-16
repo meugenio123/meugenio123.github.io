@@ -1,7 +1,7 @@
 div{text-align:center;
-  border-style:solid;
-  border-width:cover;
-  border-color:#93c930; padding:20px;}
+  
+  border: 1em solid #93c930;
+   padding:20px;}
   
   round{position: fixed;
     top: 30px;
