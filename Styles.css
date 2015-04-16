@@ -3,7 +3,7 @@ div{text-align:center;
   #max{background:#FF5840;}
   #nicole{background:#00FFCE;
   }
-  #round{position: fixed;
+  round{position: fixed;
     top: 30px;
     right: 5px;
 border-radius: 25px;
